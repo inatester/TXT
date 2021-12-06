@@ -1,0 +1,4 @@
+Name Inna
+Age 38
+Pets cat
+Salary: 1000
