@@ -1,1 +1,5 @@
-
+Bug report
+Summary: The add to cart button on the product page does not work
+Steps: Go to the website, go to the product page, click on the button put the product in the cart
+Expected result: The product gets into the basket
+Actual result>The product is not in the cart
